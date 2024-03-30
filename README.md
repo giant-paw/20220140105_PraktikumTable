@@ -8,7 +8,8 @@
 
 <h2 align="left">Preview</h2>
 
-![pr1](https://github.com/giant-paw/20220140105_PraktikumTable/assets/107108170/724105e7-fd9a-4e0e-92b8-1ec4f41cf62e)
+![pr1](https://github.com/giant-paw/20220140105_PraktikumTable/assets/107108170/393e476a-1929-4d9d-855e-fae7e92ada22)
+
 
 ###
 
